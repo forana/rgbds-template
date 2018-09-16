@@ -1,3 +1,6 @@
 *.o
 *.gb
 *.sym
+bgb.exe
+bgb.ini
+wine-*
